@@ -23,7 +23,7 @@ This project was created to complete week 1 of half life 2026
 The PCB design as well as the Arduino starter firmware are included, the default program is a turtle pet with a tilt-controlled radial menu, hidden stats, and a range of reactions going from dancing to eating to sleeping.
 
 ## What was used to make it?
-The original tutorial Starbie, by SharKingStudios was used to complete most of the design with extra input from myself for the creative design features including the pet sprite.
+The original tutorial Starbie, by SharKingStudios was used to guide most of the design with extra input from myself for the creative design features including the pet sprite.
 
 - KiCad was used for the PCB schematics, design and routing.
 
