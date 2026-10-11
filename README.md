@@ -19,6 +19,14 @@ This project was created to complete week 1 of half life 2026
 - Customisable beginner section of Arduino code for easy ways to make it harder/easier to keep your pet happy
 - Small display for real time feedback and visual selection/prompts
 
+## Visual Features
+- Tilt control selection.
+- Sparkles that follow the pet.
+- Visual indicators of sleep/love in the form of Zz's and Hearts.
+- Pet explores around when not being instrusted.
+- Little shake to acknowledge instruction.
+- Lots more, look through the code or build it to find out!  
+
 ## Project Status
 The PCB design as well as the Arduino starter firmware are included, the default program is a turtle pet with a tilt-controlled radial menu, hidden stats, and a range of reactions going from dancing to eating to sleeping.
 
