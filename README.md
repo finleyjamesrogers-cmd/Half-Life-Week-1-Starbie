@@ -39,6 +39,10 @@ The original tutorial Starbie, by SharKingStudios was used to guide most of the 
 
 - Piskel was used for creating the turtle sprite.
 
+### Copy of the BOM:
+
+
+
 ### Eye Candy for anyone who wants it!
 
 <img width="667" height="597" alt="image" src="https://github.com/user-attachments/assets/269de8f7-14a5-47f3-baa8-46a08e0eebf7" />
