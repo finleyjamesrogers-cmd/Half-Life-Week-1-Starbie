@@ -39,7 +39,8 @@ The original tutorial Starbie, by SharKingStudios was used to guide most of the 
 
 - Piskel was used for creating the turtle sprite.
 
-### Copy of the BOM:
+### Link to the BOM (its also in the side pannel)
+https://github.com/finleyjamesrogers-cmd/Half-Life-Week-1-Starbie/blob/0c3692dca871a0263f27b8f05468195b88a70d30/BOM.csv
 
 
 
